@@ -1,3 +1,6 @@
+-- Link GitHub
+-- https://github.com/felipesalinasmolina/Evaluacion-integradora_Modulo3_AlkeWallet
+
 CREATE SCHEMA `alkemy_wallet` ;
    
    -- Creacion de tabla usuarios
